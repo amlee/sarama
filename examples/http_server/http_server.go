@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Shopify/sarama"
+	"github.com/amlee/sarama"
 
 	"encoding/json"
 	"flag"
